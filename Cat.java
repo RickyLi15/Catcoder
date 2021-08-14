@@ -1,6 +1,6 @@
 package interfacesGenerics;
 
-pblic class Cat implements Animal {
+public class Cat implements Animal {
      private int mice=0;
      private String name;
 
